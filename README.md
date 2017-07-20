@@ -33,7 +33,7 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
  - [device: FP2](https://github.com/ubports/ubports-touch/labels/device%3A%20FP2): This issue affects the Fairphone 2.
  - [device: frieza](https://github.com/ubports/ubports-touch/labels/device%3A%20frieza): This issue affects the Bq M10 FHD tablet.
  - [device: hammerhead](https://github.com/ubports/ubports-touch/labels/device%3A%20hammerhead): This issue affects the Nexus 5.
- - [device: krillin](https://github.com/ubports/ubports-touch/labels/device%3A%20frieza): This issue affects the Bq E4.5.
+ - [device: krillin](https://github.com/ubports/ubports-touch/labels/device%3A%20krillin): This issue affects the Bq E4.5.
  - [device: mako](https://github.com/ubports/ubports-touch/labels/device%3A%20mako): This issue affects the Nexus 4.
  - [device: manta](https://github.com/ubports/ubports-touch/labels/device%3A%20manta): This issue affects the Nexus 10 tablet.
  - [device: turbo](https://github.com/ubports/ubports-touch/labels/device%3A%20turbo): This issue affects the Meizu Pro 5.
