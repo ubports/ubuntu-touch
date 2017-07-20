@@ -15,7 +15,8 @@ Please make sure that you're in [in the right place](https://wiki.ubports.com/wi
 
 You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaination of the tags and what they mean:
 
-- **General**
+#### General
+
  - [awaiting triage](https://github.com/ubports/ubports-touch/labels/awaiting%20triage): This issue needs confirmation and triage.
  - [bug](https://github.com/ubports/ubports-touch/labels/bug): This issue is a confirmed bug.
  - [enhancement](https://github.com/ubports/ubports-touch/labels/enhancement): This issue is a feature request.
@@ -25,7 +26,9 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
  - [duplicate](https://github.com/ubports/ubports-touch/labels/duplicate): This has already been reported somewhere else. Please provide a link.
  - [help wanted](https://github.com/ubports/ubports-touch/labels/help%20wanted): Looking for something to do? Start here.
  - [wontfix](https://github.com/ubports/ubports-touch/labels/wontfix): It does not make sense to fix this bug, since it will probably resolve itself, it will be too much work to fix it, it's not fixable or an underlying component will soon change. Depending on the case, pull-requests are welcome. Look out for the [help wanted](https://github.com/ubports/ubports-touch/labels/help%20wanted) tag.
-- **Devices**
+
+#### Devices
+
  - [device: arale](https://github.com/ubports/ubports-touch/labels/device%3A%20arale): This issue affects the Meizu MX 4.
  - [device: bacon](https://github.com/ubports/ubports-touch/labels/device%3A%20bacon): This issue affects the Oneplus One.
  - [device: cooler](https://github.com/ubports/ubports-touch/labels/device%3A%20cooler): This issue affects the Bq M10 HD tablet.
