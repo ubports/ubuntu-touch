@@ -3,7 +3,7 @@
 ## A simple and beautiful mobile OS for everyone!
 [Ubuntu Touch](https://ubports.com) is the touch-friendly mobile version of the [Ubuntu](https://ubuntu.com) operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
-![Ubuntu Touch](https://pics.computerbase.de/7/7/6/0/1/article-630x354.30c64cb7.jpg)
+![Ubuntu Touch](https://ubports.com/web/image/465)
 
 ## How to use this repo
 
