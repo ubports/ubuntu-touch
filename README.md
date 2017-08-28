@@ -42,3 +42,7 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
  - [device: turbo](https://github.com/ubports/ubports-touch/labels/device%3A%20turbo): This issue affects the Meizu Pro 5.
  - [device: vegetahd](https://github.com/ubports/ubports-touch/labels/device%3A%20vegetahd): This issue affects the Bq E5.
  - [device: w7](https://github.com/ubports/ubports-touch/labels/device%3A%20w7): This issue affects the LG L90.
+
+#### Pull Requests
+
+ - [Pending and closed Pull Requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3Aubports): Shortcut to what others are contributing
