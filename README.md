@@ -11,6 +11,9 @@ This is where we track all [bugs](https://github.com/ubports/ubports-touch/issue
 
 Please make sure that you're in [in the right place](https://wiki.ubports.com/wiki/UBports-Bug-Trackers) and read the [guide on writing a good bug report](https://wiki.ubports.com/wiki/Writing-a-Good-Bug-Report) before filing a new issue. Thank you!
 
+### Shortcut to issue milestones
+[Issue Milestones](https://github.com/ubports/ubuntu-touch/milestones)
+
 ### Tags and Filtering
 
 You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaination of the tags and what they mean:
