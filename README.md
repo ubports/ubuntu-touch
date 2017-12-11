@@ -7,9 +7,9 @@
 
 ## How to use this repo
 
-This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [enhancement-proposals](https://github.com/ubports/ubports-touch/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3Aenhancement) for the operating system.
+This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
 
-Please make sure that you're in [in the right place](https://wiki.ubports.com/wiki/UBports-Bug-Trackers) and read the [guide on writing a good bug report](https://wiki.ubports.com/wiki/Writing-a-Good-Bug-Report) before filing a new issue. Thank you!
+Please make sure that you're in [in the right place](https://wiki.ubports.com/wiki/UBports-Bug-Trackers) and read the [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before filing a new issue. Thank you!
 
 ### Shortcut to issue milestones
 [Issue Milestones](https://github.com/ubports/ubuntu-touch/milestones)
@@ -20,9 +20,9 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
 
 #### General
 
- - [awaiting triage](https://github.com/ubports/ubports-touch/labels/awaiting%20triage): This issue needs confirmation and triage.
+ - [needs confirmation](https://github.com/ubports/ubuntu-touch/labels/needs%20confirmation): This issue needs confirmation and triage.
  - [bug](https://github.com/ubports/ubports-touch/labels/bug): This issue is a confirmed bug.
- - [enhancement](https://github.com/ubports/ubports-touch/labels/enhancement): This issue is a feature request.
+ - [feature request](https://github.com/ubports/ubuntu-touch/labels/feature%20request): This issue is a feature request.
  - [opinion](https://github.com/ubports/ubports-touch/labels/opinion): This issue is polarizing or needs further discussion.
  - [question](https://github.com/ubports/ubports-touch/labels/question): This issue is a support request or general question.
  - [invalid](https://github.com/ubports/ubports-touch/labels/invalid): This issue is incomplete, can not be confirmed, or was reported in the wrong place.
@@ -36,6 +36,7 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
  - [device: bacon](https://github.com/ubports/ubports-touch/labels/device%3A%20bacon): This issue affects the Oneplus One.
  - [device: cooler](https://github.com/ubports/ubports-touch/labels/device%3A%20cooler): This issue affects the Bq M10 HD tablet.
  - [device: deb](https://github.com/ubports/ubports-touch/labels/device%3A%20deb): This issue affects the Nexus 7 2013 LTE.
+ - [device: flo](https://github.com/ubports/ubuntu-touch/labels/device%3A%20flo): This issue affects the Nexus 7 2013 Wi-Fi.
  - [device: FP2](https://github.com/ubports/ubports-touch/labels/device%3A%20FP2): This issue affects the Fairphone 2.
  - [device: frieza](https://github.com/ubports/ubports-touch/labels/device%3A%20frieza): This issue affects the Bq M10 FHD tablet.
  - [device: hammerhead](https://github.com/ubports/ubports-touch/labels/device%3A%20hammerhead): This issue affects the Nexus 5.
