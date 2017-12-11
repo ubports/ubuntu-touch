@@ -6,7 +6,7 @@ This might seem obvious, but it's easy to miss. Go to (Settings - Updates) and m
 
 ## Check if the bug report already exists
 
-Open up the bug tracker for [ubports-touch](https://github.com/ubports/ubports-touch).
+Open up the bug tracker for [ubuntu-touch](https://github.com/ubports/ubuntu-touch).
 
 First, you'll need to make sure that the bug you're trying to report hasn't been reported before. Search through the bugs reported. When searching, use a few words that describe what you're seeing. For example, "Lock screen transparent" or "Lock screen shows activities".
 
