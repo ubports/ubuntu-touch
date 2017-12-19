@@ -9,26 +9,23 @@
 
 This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
 
-Please make sure that you're in [in the right place](https://wiki.ubports.com/wiki/UBports-Bug-Trackers) and read the [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before filing a new issue. Thank you!
+Please read our [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before creating a new issue. To better understand the lifecycle of your issue, refer to our [issue tracking guidelines](https://docs.ubports.com/en/latest/about/process/issue-tracking.html). Thank you!
 
 ### Shortcut to issue milestones
-[Issue Milestones](https://github.com/ubports/ubuntu-touch/milestones)
 
-### Tags and Filtering
+[Milestones](https://github.com/ubports/ubuntu-touch/milestones). [What's the policy](https://docs.ubports.com/en/latest/about/process/issue-tracking.html#milestones)?
 
-You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaination of the tags and what they mean:
+### Labels and Filtering
 
-#### General
+You can use GitHub's filtering syntax to reduce clutter. [Here's a brief explaination of the standard labels and what they mean](https://docs.ubports.com/en/latest/about/process/issue-tracking.html#labels).
 
- - [needs confirmation](https://github.com/ubports/ubuntu-touch/labels/needs%20confirmation): This issue needs confirmation and triage.
- - [bug](https://github.com/ubports/ubports-touch/labels/bug): This issue is a confirmed bug.
- - [feature request](https://github.com/ubports/ubuntu-touch/labels/feature%20request): This issue is a feature request.
- - [opinion](https://github.com/ubports/ubports-touch/labels/opinion): This issue is polarizing or needs further discussion.
- - [question](https://github.com/ubports/ubports-touch/labels/question): This issue is a support request or general question.
- - [invalid](https://github.com/ubports/ubports-touch/labels/invalid): This issue is incomplete, can not be confirmed, or was reported in the wrong place.
- - [duplicate](https://github.com/ubports/ubports-touch/labels/duplicate): This has already been reported somewhere else. Please provide a link.
- - [help wanted](https://github.com/ubports/ubports-touch/labels/help%20wanted): Looking for something to do? Start here.
- - [wontfix](https://github.com/ubports/ubports-touch/labels/wontfix): It does not make sense to fix this bug, since it will probably resolve itself, it will be too much work to fix it, it's not fixable or an underlying component will soon change. Depending on the case, pull-requests are welcome. Look out for the [help wanted](https://github.com/ubports/ubports-touch/labels/help%20wanted) tag.
+Additionally, the following special labels are used:
+
+#### Critical
+
+
+ - [critical (devel)](https://github.com/ubports/ubuntu-touch/labels/critical%20%28devel%29): This critical issue that only occurs on the devel channel is blocking the release of the next rc image.
+ - [critical (rc)](https://github.com/ubports/ubuntu-touch/labels/critical%20%28rc%29): This critical issue that only occurs on the devel and rc channel is blocking the release of the next stable release. Usually, issues that can not simply be moved to a different release and have the power to postpone the release are labeled this.
 
 #### Devices
 
@@ -47,6 +44,11 @@ You can use GitHub's filtering syntax to reduce clutter. Here's a brief explaina
  - [device: vegetahd](https://github.com/ubports/ubports-touch/labels/device%3A%20vegetahd): This issue affects the Bq E5.
  - [device: w7](https://github.com/ubports/ubports-touch/labels/device%3A%20w7): This issue affects the LG L90.
 
-#### Pull Requests
+#### Team
 
- - [Pending and closed Pull Requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3Aubports): Shortcut to what others are contributing
+ - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20ui): This issue falls under the responsibility of the user-interface team.
+ - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20middleware): This issue falls under the responsibility of the middleware team.
+ - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team.
+---
+
+This is repository does not contain the actual Ubuntu Touch code. Duh.
