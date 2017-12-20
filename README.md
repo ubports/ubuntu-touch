@@ -51,4 +51,4 @@ Additionally, the following special labels are used:
  - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team.
 ---
 
-This is repository does not contain the actual Ubuntu Touch code. Duh.
+*Note:* This repository does not contain the actual Ubuntu Touch code. Duh.
