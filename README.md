@@ -47,7 +47,7 @@ Additionally, the following special labels are used:
 #### Team
 
  - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20ui): This issue falls under the responsibility of the user-interface team.
- - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20middleware): This issue falls under the responsibility of the middleware team.
+ - [team: middleware](https://github.com/ubports/ubports-touch/labels/team%3A%20middleware): This issue falls under the responsibility of the middleware team.
  - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team.
 ---
 
