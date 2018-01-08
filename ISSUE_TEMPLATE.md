@@ -44,7 +44,7 @@ If not and you just want to get this over with, that's also quite alright. But p
 <!-- Describe what causes your bug to occur -->
 
 
-### Expected behavoir
+### Expected behavior
 <!-- Describe what you'd expect to happen -->
 
 
