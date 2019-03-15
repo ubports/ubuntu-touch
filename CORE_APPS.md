@@ -11,17 +11,18 @@
 - [Doc Viewer](https://gitlab.com/ubports/app/docviewer-app): [Chris Clime](https://gitlab.com/balcy)
 - [File Manager](https://gitlab.com/ubports/apps/filemanager-app): [Bjarne Roß](https://gitlab.com/nfsprodriver)
 - [Gallery](https://gitlab.com/ubports/app/gallery-app): [Emanuele Sorce](https://gitlab.com/TronFortyTwo)
+- [Messenger](https://github.com/ubports/messaging-app): [Christian Pauly](https://github.com/ChristianPauly)
 - [OpenStore](https://gitlab.com/theopenstore/openstore-app): [Brian Douglass](https://gitlab.com/bhdouglass)
 - [TELEports](https://gitlab.com/ubports/apps/teleports): [Florian Leeber](https://gitlab.com/Flohack74)
 - [Terminal](https://gitlab.com/ubports/apps/terminal-app): [Walter Garcia-Fontes](https://gitlab.com/wgarcia)
 - [UBports Welcome App](https://gitlab.com/ubports/app/ubports-app): [Jan Sprinz](https://gitlab.com/NeoTheThird)
+- [Weather App](https://gitlab.com/ubports/apps/weather-app): [Daniel Frost](https://gitlab.com/Danfro)
+
 
 ## Core apps without maintainers
 
 - [Media Player](https://github.com/ubports/mediaplayer-app)
-- [Messenger](https://github.com/ubports/messaging-app)
 - [Morph Browser](https://github.com/ubports/morph-browser)
 - [Music](https://gitlab.com/ubports/app/music-app)
 - [Notes](https://gitlab.com/ubports/apps/notes-app)
 - [Printing](https://github.com/ubports/ubuntu-printing-app)
-- [Weather](https://gitlab.com/ubports/apps/weather-app)
