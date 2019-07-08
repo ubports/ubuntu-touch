@@ -3,14 +3,17 @@
 # <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a> &nbsp; Ubuntu Touch   &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a>
 ------------------------------------------------------------------------
 
+<br><br>
 ## A simple and beautiful mobile OS for everyone!
 
 [Ubuntu Touch](https://ubports.com) is the touch-friendly mobile version of the [Ubuntu](https://ubuntu.com) operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
 ![Ubuntu Touch](https://ubports.com/web/image/1556/banner-core-devices.jpg)
 
+<br><br>
 ------------------------------------------------------------------------
 
+<br><br>
 ## How to use this repository
 
 This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
@@ -53,7 +56,7 @@ Additionally, the following special labels are used:
 
  - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20ui): This issue falls under the responsibility of the user-interface team.
  - [team: middleware](https://github.com/ubports/ubports-touch/labels/team%3A%20middleware): This issue falls under the responsibility of the middleware team.
- - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team.
+ - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team. <br><br>
 
 ------------------------------------------------------------------------
 
