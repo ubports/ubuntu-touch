@@ -2,7 +2,7 @@
 
 # Ubuntu Touch
 
-[ubunut-touch-logo](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fusefoss.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUBports-Site_Logo.png&f=1)
+[ubunut-touch-logo](http://usefoss.com/wp-content/uploads/2016/08/UBports-Site_Logo.png)
 
 ------------------------------------------------------------------------
 
