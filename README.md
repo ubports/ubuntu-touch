@@ -15,11 +15,11 @@
 
 This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
 
-Please read our [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before creating a new issue. To better understand the lifecycle of your issue, refer to our [issue tracking guidelines](https://docs.ubports.com/en/latest/about/process/issue-tracking.html). Thank you! <br>
+Please read our [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before creating a new issue. To better understand the lifecycle of your issue, refer to our [issue tracking guidelines](https://docs.ubports.com/en/latest/about/process/issue-tracking.html). Thank you! <br><br>
 
 ### Shortcut to issue milestones
 
-[Milestones](https://github.com/ubports/ubuntu-touch/milestones). [What's the policy](https://docs.ubports.com/en/latest/about/process/issue-tracking.html#milestones)?
+[Milestones](https://github.com/ubports/ubuntu-touch/milestones). [What's the policy](https://docs.ubports.com/en/latest/about/process/issue-tracking.html#milestones)? <br><br>
 
 ### Labels and Filtering
 
