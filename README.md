@@ -2,8 +2,6 @@
 
 # Ubuntu Touch
 
-![ubunut-touch-logo](http://usefoss.com/wp-content/uploads/2016/08/UBports-Site_Logo.png)
-
 ------------------------------------------------------------------------
 
 ## A simple and beautiful mobile OS for everyone!
@@ -56,6 +54,9 @@ Additionally, the following special labels are used:
  - [team: ui](https://github.com/ubports/ubports-touch/labels/team%3A%20ui): This issue falls under the responsibility of the user-interface team.
  - [team: middleware](https://github.com/ubports/ubports-touch/labels/team%3A%20middleware): This issue falls under the responsibility of the middleware team.
  - [team: hal](https://github.com/ubports/ubports-touch/labels/team%3A%20hal): This issue falls under the responsibility of the hardware abstraction layer team.
----
+
+------------------------------------------------------------------------
 
 *Note:* This repository does not contain the actual Ubuntu Touch code. Duh.
+
+------------------------------------------------------------------------
