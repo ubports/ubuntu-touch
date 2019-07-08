@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-# ![ubports-logo](http://i65.tinypic.com/19i5f.png) Ubuntu Touch ![ubports-logo](http://i65.tinypic.com/19i5f.png)
+# ![ubports-logo](http://i63.tinypic.com/24pz695.png) Ubuntu Touch ![ubports-logo](http://i63.tinypic.com/24pz695.png)
 
 ------------------------------------------------------------------------
 
