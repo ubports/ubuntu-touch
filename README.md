@@ -1,9 +1,17 @@
+------------------------------------------------------------------------
+
 # Ubuntu Touch
+
+[ubunut-touch-logo](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fusefoss.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUBports-Site_Logo.png&f=1)
+
+------------------------------------------------------------------------
 
 ## A simple and beautiful mobile OS for everyone!
 [Ubuntu Touch](https://ubports.com) is the touch-friendly mobile version of the [Ubuntu](https://ubuntu.com) operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
 ![Ubuntu Touch](https://ubports.com/web/image/1556/banner-core-devices.jpg)
+
+------------------------------------------------------------------------
 
 ## How to use this repo
 
@@ -22,7 +30,6 @@ You can use GitHub's filtering syntax to reduce clutter. [Here's a brief explain
 Additionally, the following special labels are used:
 
 #### Critical
-
 
  - [critical (devel)](https://github.com/ubports/ubuntu-touch/labels/critical%20%28devel%29): This critical issue that only occurs on the devel channel is blocking the release of the next rc image.
  - [critical (rc)](https://github.com/ubports/ubuntu-touch/labels/critical%20%28rc%29): This critical issue that only occurs on the devel and rc channel is blocking the release of the next stable release. Usually, issues that can not simply be moved to a different release and have the power to postpone the release are labeled this.
