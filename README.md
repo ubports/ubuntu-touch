@@ -3,12 +3,11 @@
 # <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a> &nbsp; Ubuntu Touch   &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a>
 ------------------------------------------------------------------------
 
-## <br><br> A simple and beautiful mobile OS for everyone!
+## <br> A simple and beautiful mobile OS for everyone!
 [Ubuntu Touch](https://ubports.com) is the touch-friendly mobile version of the [Ubuntu](https://ubuntu.com) operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
 ![Ubuntu Touch](https://ubports.com/web/image/1556/banner-core-devices.jpg)
 
-<br><br>
 ------------------------------------------------------------------------
 
 ## <br><br> How to use this repository
