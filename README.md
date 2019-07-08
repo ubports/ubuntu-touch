@@ -10,7 +10,7 @@
 
 ------------------------------------------------------------------------
 
-## How to use this repo
+## How to use this repository
 
 This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
 
