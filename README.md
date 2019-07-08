@@ -4,6 +4,7 @@
 ------------------------------------------------------------------------
 
 ## A simple and beautiful mobile OS for everyone!
+
 [Ubuntu Touch](https://ubports.com) is the touch-friendly mobile version of the [Ubuntu](https://ubuntu.com) operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
 ![Ubuntu Touch](https://ubports.com/web/image/1556/banner-core-devices.jpg)
@@ -14,7 +15,7 @@
 
 This is where we track all [bugs](https://github.com/ubports/ubports-touch/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [feature-request](https://github.com/ubports/ubuntu-touch/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22+) for the operating system.
 
-Please read our [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before creating a new issue. To better understand the lifecycle of your issue, refer to our [issue tracking guidelines](https://docs.ubports.com/en/latest/about/process/issue-tracking.html). Thank you!
+Please read our [guide on writing a good bug report](https://docs.ubports.com/en/latest/contribute/bugreporting.html) before creating a new issue. To better understand the lifecycle of your issue, refer to our [issue tracking guidelines](https://docs.ubports.com/en/latest/about/process/issue-tracking.html). Thank you! <br>
 
 ### Shortcut to issue milestones
 
