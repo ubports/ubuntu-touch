@@ -2,7 +2,7 @@
 
 # Ubuntu Touch
 
-[ubunut-touch-logo](http://usefoss.com/wp-content/uploads/2016/08/UBports-Site_Logo.png)
+![ubunut-touch-logo](http://usefoss.com/wp-content/uploads/2016/08/UBports-Site_Logo.png)
 
 ------------------------------------------------------------------------
 
