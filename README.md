@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-# <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a> &nbsp; Ubuntu Touch   &nbsp; <a href="https://imgbb.com/"><img src="https://i.ibb.co/5WgVdC1/uports.png" alt="uports" border="0"></a>
+# <a href="https://imgbb.com/"><img src="https://github.com/Lin8x/ubuntu-touch/blob/master/repo-images/uports.png" alt="uports" border="0"></a> &nbsp; Ubuntu Touch   &nbsp; <a href="https://imgbb.com/"><img src="https://github.com/Lin8x/ubuntu-touch/blob/master/repo-images/uports.png" alt="uports" border="0"></a>
 
 ------------------------------------------------------------------------
 
