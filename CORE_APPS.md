@@ -9,6 +9,7 @@
 - [File Manager](https://gitlab.com/ubports/apps/filemanager-app): [Bjarne Roß](https://gitlab.com/nfsprodriver)
 - [Gallery](https://gitlab.com/ubports/app/gallery-app): [Emanuele Sorce](https://gitlab.com/TronFortyTwo)
 - [Morph Browser](https://github.com/ubports/morph-browser): [Chris Clime](https://gitlab.com/balcy)
+- [Notes](https://gitlab.com/ubports/apps/notes-app): [David Farkas](https://gitlab.com/farkasdvd)
 - [OpenStore](https://gitlab.com/theopenstore/openstore-app): [Brian Douglass](https://gitlab.com/bhdouglass)
 - [TELEports](https://gitlab.com/ubports/apps/teleports): [Florian Leeber](https://gitlab.com/Flohack74)
 - [Terminal](https://gitlab.com/ubports/apps/terminal-app): [Walter Garcia-Fontes](https://gitlab.com/wgarcia)
@@ -24,5 +25,4 @@
 - [Media Player](https://github.com/ubports/mediaplayer-app)
 - [Messenger](https://github.com/ubports/messaging-app)
 - [Music](https://gitlab.com/ubports/app/music-app)
-- [Notes](https://gitlab.com/ubports/apps/notes-app)
 - [Printing](https://github.com/ubports/ubuntu-printing-app)
