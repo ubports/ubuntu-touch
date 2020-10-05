@@ -3,7 +3,6 @@
 ## Core apps and their maintainers
 
 - [Calculator](https://gitlab.com/ubports/app/calculator-app): [Brian Douglass](https://gitlab.com/bhdouglass)
-- [Calendar](https://gitlab.com/ubports/apps/calendar-app): [Johannes Renkl](https://gitlab.com/hummlbach)
 - [Contacts](https://github.com/ubports/address-book-app): [Alberto Mardegan](https://github.com/mardy)
 - [Dialer](https://github.com/ubports/dialer-app): [Lionel Duboeuf](https://github.com/lduboeuf)
 - [Doc Viewer](https://gitlab.com/ubports/app/docviewer-app): [Chris Clime](https://gitlab.com/balcy)
@@ -21,6 +20,7 @@
 
 ## Core apps seeking maintainers
 
+- [Calendar](https://gitlab.com/ubports/apps/calendar-app)
 - [Camera](https://gitlab.com/ubports/apps/camera-app)
 - [Clock](https://github.com/ubports/clock-app)
 - [Media Player](https://github.com/ubports/mediaplayer-app)
