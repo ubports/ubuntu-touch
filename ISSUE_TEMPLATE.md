@@ -1,6 +1,8 @@
 <!------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
+IMPORTANT: Please file PINEPHONE ISSUES here: https://gitlab.com/ubports/community-ports/pinephone/-/issues
+
 Thank you for wanting to file an issue! If you have a minute, please take the time to read our guide on writing a good bug-report:
 
     https://docs.ubports.com/en/latest/contribute/bugreporting.html
